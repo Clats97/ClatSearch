@@ -76,15 +76,15 @@ search_products(query):
 
 •	parse_response(response): 
 
-o	Parses the API response.
+- Parses the API response.
 
-o	Extracts product details and handles JSON decoding errors.
+- Extracts product details and handles JSON decoding errors.
 
 •	main(): 
 
-o	Handles user interaction.
+- Handles user interaction.
 
-o	Calls the necessary functions to search and display results.
+- Calls the necessary functions to search and display results.
 ________________________________________
 
 **Limitations**
