@@ -131,4 +131,10 @@ Output:
    Image URL: https://example.com/image2.jpg
    Site: Ebay
 
-Thank you for using ClatSearch.
+**Author**
+
+Joshua M Clatney (Clats97)
+
+Ethical Pentesting Enthusiast
+
+Copyright 2025 Joshua M Clatney (Clats97)
